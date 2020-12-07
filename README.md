@@ -1,3 +1,8 @@
+# MATERIAL-UI
+
+React components for faster and easier web development. Build your own design system, or start with Material Design.
+https://material-ui.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
